@@ -12,6 +12,7 @@ Some of the platforms that will no doubt be supported are:
 - Windows
 - Linux
 - MacOSX
+
 But I would love for an HTML build to be avaliable, as well as maybe an mobile target.
 
 # Goals
